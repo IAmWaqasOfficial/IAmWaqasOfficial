@@ -1,86 +1,208 @@
-# Hi, I'm Muhammad Waqas Irshad 👋
+# 👋 Hi, I'm Muhammad Waqas Irshad
 
-## Flutter Developer | AI-Powered Applications 🚀
+<h3 align="center">
+🚀 Flutter Developer • FastAPI Backend Developer • AI Engineer
+</h3>
 
-Computer Science student passionate about building modern mobile applications and exploring the world of Artificial Intelligence, Large Language Models, and AI-powered products.
-
----
-
-## 👨‍💻 About Me
-
-* 📱 Flutter Developer focused on building scalable mobile applications
-* 🤖 Exploring AI Engineering, LLMs, RAG, and AI Agents
-* ⚡ Building applications that combine mobile development with AI
-* 🎓 BS Computer Science Student
-* 🚀 Interested in creating impactful real-world software solutions
-
----
-
-## 🛠️ Tech Stack
-
-### Mobile Development
-
-<p>
-Flutter • Dart • Firebase • Provider • REST APIs
+<p align="center">
+Building intelligent mobile applications powered by AI, scalable backend systems, and modern user experiences.
 </p>
 
-### Backend Development
+<p align="center">
+<a href="https://github.com/IAmWaqasOfficial">
+<img src="https://img.shields.io/badge/GitHub-IAmWaqasOfficial-181717?style=for-the-badge&logo=github">
+</a>
 
-<p>
-Python • FastAPI • PostgreSQL • SQLAlchemy
-</p>
+<a href="https://www.linkedin.com/in/waqas-irshad-70376024b/">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Waqas%20Irshad-0077B5?style=for-the-badge&logo=linkedin">
+</a>
 
-### AI & Machine Learning
-
-<p>
-LLMs • RAG • Embeddings • FAISS • Gemini AI • AI Agents
-</p>
-
-### Tools
-
-<p>
-Git • GitHub • VS Code • Android Studio • Docker
+<a href="mailto:chwaqas1918@gmail.com">
+<img src="https://img.shields.io/badge/Email-chwaqas1918@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 💫 About Me
+
+🎓 Computer Science Student
+
+📱 Flutter Mobile App Developer
+
+⚡ Backend Development using FastAPI & Python
+
+🤖 AI Developer passionate about LLMs, RAG, LangChain & Generative AI
+
+🧠 Currently learning AI Agents, Vector Databases & Advanced RAG
+
+💡 I enjoy building real-world AI products with beautiful mobile experiences.
+
+---
+
+# 💻 Tech Stack
+
+<table>
+<tr>
+<td width="220"><b>📱 Mobile</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</td>
+</tr>
+
+<tr>
+<td><b>🎨 Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+</td>
+</tr>
+
+<tr>
+<td><b>⚡ Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,sqlite" />
+</td>
+</tr>
+
+<tr>
+<td><b>🤖 AI / ML</b></td>
+<td>
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge)
+
+</td>
+</tr>
+
+<tr>
+<td><b>🗄️ Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase" />
+</td>
+</tr>
+
+<tr>
+<td><b>☁️ DevOps & Cloud</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
+</td>
+</tr>
+
+<tr>
+<td><b>🛠️ Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma" />
+</td>
+</tr>
+
+</table>
+
+---
+
+# 🚀 Featured Projects
 
 ### 🤖 AI Career Assistant
+- Personalized AI career roadmap generation
+- Skill gap analysis
+- Learning recommendations
+- Gemini-powered backend
+- Flutter mobile application
 
-An AI-powered Flutter application that generates personalized career roadmaps using Flutter, FastAPI, and AI integration.
-
-### 📚 Intelligent Documentation Assistant (DevDocs AI)
-
-A RAG-based AI system that allows users to upload technical documents and ask questions with context-aware answers.
-
-### 📝 Notes Application
-
-A Flutter-based notes application focused on clean UI and efficient user experience.
+**Tech:** Flutter • FastAPI • PostgreSQL • Gemini API
 
 ---
 
-## 📈 Currently Learning
+### 📄 Intelligent Documentation Assistant
 
-* Advanced FastAPI Development
-* Retrieval-Augmented Generation (RAG)
-* LLM Application Development
-* AI Agents & Automation
-* Machine Learning Fundamentals
+- Chat with PDFs, DOCX & TXT
+- AI-powered document understanding
+- Semantic Search
+- RAG Architecture
+- Vector Search
 
----
-
-## 📊 GitHub Stats
-
-![Waqas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IAmWaqasOfficial\&show_icons=true\&theme=transparent)
+**Tech:** FastAPI • LangChain • FAISS • Gemini • PostgreSQL
 
 ---
 
-## 🤝 Connect With Me
+### 🎥 AI Meeting Assistant *(In Progress)*
 
-💼 LinkedIn: Add your LinkedIn link
-📧 Email: [chwaqas1918@gmail.com](mailto:chwaqas1918@gmail.com)
+- AI Meeting Summaries
+- Transcription
+- Action Items
+- Meeting Reports
+- Smart Search
 
 ---
 
-⭐ Always learning, building, and exploring the future of AI-powered applications.
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IAmWaqasOfficial&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmWaqasOfficial&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=IAmWaqasOfficial&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=IAmWaqasOfficial&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IAmWaqasOfficial&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:chwaqas1918@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/waqas-irshad-70376024b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/IAmWaqasOfficial">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Turning ideas into intelligent mobile applications powered by AI.
+
+![](https://komarev.com/ghpvc/?username=IAmWaqasOfficial&style=for-the-badge&color=blueviolet)
+
+</p>
