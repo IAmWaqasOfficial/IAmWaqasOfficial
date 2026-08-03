@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Waqas Irshad</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1400&pause=100&color=00C2FF&center=true&vCenter=true&repeat=true&width=950&lines=📱+Mobile+App+Developer;💙+Flutter+Developer;⚡+FastAPI+Backend+Developer;🤖+AI+Engineer"
-      alt="Typing SVG"
-    />
-  </a>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=1400&pause=100&color=00C2FF&center=true&vCenter=true&width=900&lines=Mobile+App+Developer;Flutter+Developer;FastAPI+Backend+Developer;AI+Engineer"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
@@ -34,7 +32,7 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 - ⚡ Backend Developer building scalable APIs with **FastAPI** & **Python**
 - 🤖 Passionate about **Artificial Intelligence, LLMs, RAG & Generative AI**
 - 🌱 Currently learning **LangChain, FAISS & AI Agents**
-- 💡 Focused on creating intelligent applications with clean UI, scalable backends and modern AI technologies.
+- 💡 Building intelligent applications with clean UI and scalable backend architectures.
 
 ---
 
@@ -43,16 +41,12 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 <table>
 <tr>
 <td width="220"><b>📱 Mobile Development</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
-</td>
+<td><img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/></td>
 </tr>
 
 <tr>
 <td><b>⚡ Backend Development</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres"/>
-</td>
+<td><img src="https://skillicons.dev/icons?i=python,fastapi,postgres"/></td>
 </tr>
 
 <tr>
@@ -67,9 +61,7 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 
 <tr>
 <td><b>🛠️ Tools & Platforms</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker"/>
-</td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker"/></td>
 </tr>
 </table>
 
@@ -78,7 +70,6 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 ## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="mailto:chwaqas1918@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
@@ -94,7 +85,6 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 <a href="https://www.linkedin.com/in/waqas-irshad-70376024b/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-
 </p>
 
 ---
