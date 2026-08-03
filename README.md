@@ -12,11 +12,9 @@ Building intelligent mobile applications with scalable backend systems and AI-po
   <a href="https://github.com/IAmWaqasOfficial">
     <img src="https://img.shields.io/badge/GitHub-IAmWaqasOfficial-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/waqas-irshad-70376024b/">
     <img src="https://img.shields.io/badge/LinkedIn-Waqas%20Irshad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:chwaqas1918@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-chwaqas1918%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -39,7 +37,7 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 
 <table>
 <tr>
-<td width="220"><b>📱 Mobile Development</b></td>
+<td width="230"><b>📱 Mobile Development</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
 </td>
@@ -55,10 +53,12 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 <tr>
 <td><b>🤖 Artificial Intelligence</b></td>
 <td>
+
 <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-10B981?style=for-the-badge"/>
+
 </td>
 </tr>
 
@@ -75,30 +75,18 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="mailto:chwaqas1918@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/IAmWaqasOfficial">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/waqas-irshad-70376024b/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
+  <a href="mailto:chwaqas1918@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/IAmWaqasOfficial">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/waqas-irshad-70376024b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=IAmWaqasOfficial&label=Profile%20Views&style=for-the-badge&color=00C2FF"/>
-</p>
 
 <p align="center">
   <b>⭐ Turning ideas into intelligent mobile applications powered by AI.</b>
