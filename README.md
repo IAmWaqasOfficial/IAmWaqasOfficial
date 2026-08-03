@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1200&pause=250&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&lines=📱+Mobile+App+Developer;💙+Flutter+Developer;⚡+FastAPI+Backend+Developer;🤖+AI+Engineer"
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=800&pause=10&color=00C2FF&center=true&vCenter=true&repeat=true&width=950&lines=📱+Mobile+App+Developer;💙+Flutter+Developer;⚡+FastAPI+Backend+Developer;🤖+AI+Engineer"
       alt="Typing SVG"
     />
   </a>
@@ -17,11 +17,9 @@ Building intelligent mobile applications with scalable backend systems and AI-po
   <a href="https://github.com/IAmWaqasOfficial">
     <img src="https://img.shields.io/badge/GitHub-IAmWaqasOfficial-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/waqas-irshad-70376024b/">
     <img src="https://img.shields.io/badge/LinkedIn-Waqas%20Irshad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:chwaqas1918@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-chwaqas1918%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -33,10 +31,10 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 
 - 🎓 Computer Science Student
 - 📱 Mobile App Developer specializing in **Flutter**
-- ⚡ Backend Developer building scalable APIs with **FastAPI & Python**
+- ⚡ Building scalable backend APIs with **FastAPI** & **Python**
 - 🤖 Passionate about **Artificial Intelligence, LLMs, RAG & Generative AI**
 - 🌱 Currently learning **LangChain, FAISS & AI Agents**
-- 💡 Building intelligent applications with clean UI and modern backend architectures
+- 💡 Focused on creating intelligent applications with clean UI and scalable architectures
 
 ---
 
@@ -45,12 +43,16 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 <table>
 <tr>
 <td width="220"><b>📱 Mobile Development</b></td>
-<td><img src="https://skillicons.dev/icons?i=flutter,dart,firebase" /></td>
+<td>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</td>
 </tr>
 
 <tr>
 <td><b>⚡ Backend Development</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,fastapi,postgres" /></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres" />
+</td>
 </tr>
 
 <tr>
@@ -65,7 +67,9 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 
 <tr>
 <td><b>🛠️ Tools & Platforms</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker" /></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker" />
+</td>
 </tr>
 </table>
 
@@ -96,7 +100,7 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=IAmWaqasOfficial&label=Profile+Views&style=for-the-badge&color=0E75B6"/>
+<img src="https://komarev.com/ghpvc/?username=IAmWaqasOfficial&label=Profile%20Views&style=for-the-badge&color=00C2FF"/>
 </p>
 
 <h3 align="center">
