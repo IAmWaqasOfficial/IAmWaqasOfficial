@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=800&pause=10&color=00C2FF&center=true&vCenter=true&repeat=true&width=950&lines=📱+Mobile+App+Developer;💙+Flutter+Developer;⚡+FastAPI+Backend+Developer;🤖+AI+Engineer"
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1400&pause=100&color=00C2FF&center=true&vCenter=true&repeat=true&width=950&lines=📱+Mobile+App+Developer;💙+Flutter+Developer;⚡+FastAPI+Backend+Developer;🤖+AI+Engineer"
       alt="Typing SVG"
     />
   </a>
@@ -31,10 +31,10 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 
 - 🎓 Computer Science Student
 - 📱 Mobile App Developer specializing in **Flutter**
-- ⚡ Building scalable backend APIs with **FastAPI** & **Python**
+- ⚡ Backend Developer building scalable APIs with **FastAPI** & **Python**
 - 🤖 Passionate about **Artificial Intelligence, LLMs, RAG & Generative AI**
 - 🌱 Currently learning **LangChain, FAISS & AI Agents**
-- 💡 Focused on creating intelligent applications with clean UI and scalable architectures
+- 💡 Focused on creating intelligent applications with clean UI, scalable backends and modern AI technologies.
 
 ---
 
@@ -44,14 +44,14 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 <tr>
 <td width="220"><b>📱 Mobile Development</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
 </td>
 </tr>
 
 <tr>
 <td><b>⚡ Backend Development</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres"/>
 </td>
 </tr>
 
@@ -68,7 +68,7 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 <tr>
 <td><b>🛠️ Tools & Platforms</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker"/>
 </td>
 </tr>
 </table>
