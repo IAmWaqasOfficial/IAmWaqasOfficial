@@ -1,9 +1,9 @@
-<h1 align="center"> I'm Muhammad Waqas Irshad</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Waqas Irshad</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com/?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Mobile+App+Developer;Flutter+Developer;FastAPI+Backend+Developer;AI+Engineer"
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1200&pause=250&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&lines=📱+Mobile+App+Developer;💙+Flutter+Developer;⚡+FastAPI+Backend+Developer;🤖+AI+Engineer"
       alt="Typing SVG"
     />
   </a>
@@ -17,9 +17,11 @@ Building intelligent mobile applications with scalable backend systems and AI-po
   <a href="https://github.com/IAmWaqasOfficial">
     <img src="https://img.shields.io/badge/GitHub-IAmWaqasOfficial-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/waqas-irshad-70376024b/">
     <img src="https://img.shields.io/badge/LinkedIn-Waqas%20Irshad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:chwaqas1918@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-chwaqas1918%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -30,11 +32,11 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 ## 💫 About Me
 
 - 🎓 Computer Science Student
-- 📱 Passionate about Flutter Mobile Development
-- ⚡ Building scalable backend APIs using FastAPI & Python
-- 🤖 Exploring Artificial Intelligence, LLMs, RAG & Generative AI
-- 🌱 Currently learning LangChain, FAISS & AI Agents
-- 💡 Love building real-world AI-powered applications
+- 📱 Mobile App Developer specializing in **Flutter**
+- ⚡ Backend Developer building scalable APIs with **FastAPI & Python**
+- 🤖 Passionate about **Artificial Intelligence, LLMs, RAG & Generative AI**
+- 🌱 Currently learning **LangChain, FAISS & AI Agents**
+- 💡 Building intelligent applications with clean UI and modern backend architectures
 
 ---
 
@@ -54,8 +56,8 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 <tr>
 <td><b>🤖 Artificial Intelligence</b></td>
 <td>
-<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Generative_AI-10B981?style=for-the-badge"/>
 </td>
@@ -72,25 +74,31 @@ Building intelligent mobile applications with scalable backend systems and AI-po
 ## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="mailto:chwaqas1918@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
-&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/IAmWaqasOfficial">
-<img src="https://skillicons.dev/icons?i=github" height="42"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
-&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/waqas-irshad-70376024b/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=IAmWaqasOfficial&label=Profile%20Views&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=IAmWaqasOfficial&label=Profile+Views&style=for-the-badge&color=0E75B6"/>
 </p>
 
-<p align="center">
-<b>⭐ Building intelligent mobile applications powered by AI.</b>
-</p>
+<h3 align="center">
+⭐ Turning ideas into intelligent mobile applications powered by AI.
+</h3>
